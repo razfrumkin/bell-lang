@@ -33,3 +33,6 @@
 
 # Private folders and files
 private
+
+# Build path
+build
